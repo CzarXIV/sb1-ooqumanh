@@ -15,13 +15,13 @@ const Footer: React.FC = () => {
               Luxury fashion redefined. Bold silhouettes with a timeless approach to design.
             </p>
             <div className="flex space-x-4">
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="hover:text-accent-gold transition-colors">
+              <a href="https://www.instagram.com/by_smartmira?igsh=ZTFpMjY5c255a29q&utm_source=qr" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="hover:text-accent-gold transition-colors">
                 <Instagram size={20} />
               </a>
               <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="hover:text-accent-gold transition-colors">
                 <Facebook size={20} />
               </a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter" className="hover:text-accent-gold transition-colors">
+              <a href="https://x.com/by_smartmira?s=21" target="_blank" rel="noopener noreferrer" aria-label="Twitter" className="hover:text-accent-gold transition-colors">
                 <Twitter size={20} />
               </a>
             </div>
